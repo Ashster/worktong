@@ -1,0 +1,85 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 3240114 */
+    src: url('iconfont.eot?t=1647528373106');
+    /* IE9 */
+    src: url('iconfont.eot?t=1647528373106#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff2?t=1647528373106') format('woff2'), url('iconfont.woff?t=1647528373106') format('woff'), url('iconfont.ttf?t=1647528373106') format('truetype'), url('iconfont.svg?t=1647528373106#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 33px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #767a7e;
+}
+
+.icon-worktong-a-jianqiejietu:before {
+    content: "\e673";
+}
+
+.icon-worktong-group:before {
+    content: "\e753";
+}
+
+.icon-worktong-jiantou:before {
+    content: "\e60c";
+}
+
+.icon-worktong-group1:before {
+    content: "\e694";
+}
+
+.icon-worktong-gengduo3:before {
+    content: "\ec1c";
+}
+
+.icon-worktong-huiyi:before {
+    content: "\e66f";
+}
+
+.icon-worktong-jietu:before {
+    content: "\e617";
+}
+
+.icon-worktong-chat1:before {
+    content: "\e635";
+}
+
+.icon-worktong-gengduo:before {
+    content: "\e660";
+}
+
+.icon-worktong-biaoqing:before {
+    content: "\e600";
+}
+
+.icon-worktong-wenjian:before {
+    content: "\e631";
+}
+
+.icon-worktong-762bianjiqi_jietu:before {
+    content: "\e654";
+}
+
+.icon-worktong-gengduo1:before {
+    content: "\e719";
+}
+
+.icon-worktong-qunliao:before {
+    content: "\e690";
+}
+
+.icon-worktong-tupian:before {
+    content: "\e8ba";
+}
+
+.icon-worktong-yuyin:before {
+    content: "\e8c0";
+}
+
+.icon-worktong-qunliaobeifen:before {
+    content: "\e7ac";
+}
